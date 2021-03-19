@@ -1,4 +1,4 @@
-name: CI
+name: jasa-jasic
 
 on: workflow_dispatch
 
